@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "59e680c23b4dd383",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d69da3894041429",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "136928882b66ea1e",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/GIT.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c219b29ee90d8d75",
+    "type": "split",
+    "children": [
+      {
+        "id": "228079aa0ceecacd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "972e36440a0847b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eab693fce71d1b16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b3edc16770650792",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 275.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "30193022f0d59be2",
+    "type": "split",
+    "children": [
+      {
+        "id": "61108401b2c6bc0d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc5a3f27fde5fb63",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/GIT.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7d1e3681f50c3ccd",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/GIT.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5d7eb5899b8ebdad",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d99dee26b9fd6521",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/GIT.md"
+              }
+            }
+          },
+          {
+            "id": "3384e2e30187da92",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Создать новую доску": false
+    }
+  },
+  "active": "136928882b66ea1e",
+  "lastOpenFiles": [
+    "Excalidraw/Scripts/Downloaded/Mindmap format.svg",
+    "Excalidraw/Scripts/Downloaded/Mindmap format.md",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.svg",
+    "Excalidraw/Scripts/Downloaded/Box Selected Elements.md",
+    "Excalidraw/Scripts/Downloaded",
+    "Excalidraw/Scripts",
+    "Без названия.md",
+    "Excalidraw/GIT.md",
+    "Вопросы не по адресу.md",
+    "Появление ошибки «Свободный рабочий процесс сервера 1С не найден».md",
+    "Розница !!!!.md",
+    "Яндекс проблема с кодом маркировки.md",
+    "Программирование/Solid.md",
+    "Программирование/Литература_.md",
+    "Swift/Swift Практика.md",
+    "Swift/Этап 7 Состояния State.md",
+    "Программирование/JAVA/Классы.md",
+    "Программирование/JAVA/Интересное.md",
+    "Программирование/JAVA/Изучаем JAVA.md",
+    "Программирование/JAVA/Самоучитель/Урок 2. Обзор Java - введение, преимущества и история создания языка программирования.md",
+    "Программирование/JAVA/Самоучитель/Урок 1. Java – Самоучитель по программированию с нуля.md",
+    "Программирование/Терминал/Терминал.md",
+    "Программирование/Терминал/Базовые команды терминала.md",
+    "Безымянная Kanban-доска.md",
+    "Excalidraw",
+    "Swift/Этап 0 План обучения.md",
+    "Swift/Этап 2 Функции.md",
+    "ObsidianNotes/Яндекс проблема с кодом маркировки.md",
+    "ObsidianNotes/Терминал/Терминал.md",
+    "ObsidianNotes/Терминал/Базовые команды терминала.md",
+    "ObsidianNotes/Терминал",
+    "ObsidianNotes/Программирование/JAVA/Самоучитель",
+    "ObsidianNotes/Программирование/PostgreSQL",
+    "ObsidianNotes/Программирование/JAVA",
+    "ObsidianNotes/Программирование/1С EDT",
+    "ObsidianNotes/Программирование",
+    "ObsidianNotes/Куски кода GPT",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708144130.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708144022.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708143725.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708143124.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708142914.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708142759.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708142545.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708142503.png",
+    "ObsidianNotes/Инструкции/1С Управление торговлей/Заказы сотрудника/attachments/Pasted image 20240708142500.png"
+  ]
+}

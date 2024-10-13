@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Minimal",
+  "accentColor": "#4db379",
+  "interfaceFontFamily": "Roboto,Open Sans",
+  "textFontFamily": "Roboto,Open Sans",
+  "baseFontSize": 18,
+  "baseFontSizeAction": true,
+  "monospaceFontFamily": "FiraMono Nerd Font",
+  "nativeMenus": false,
+  "showViewHeader": true
+}
